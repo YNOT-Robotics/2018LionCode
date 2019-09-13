@@ -1,4 +1,7 @@
 
+#ifndef Robots
+#define Robots
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -44,3 +47,4 @@ void disabled(void);
 void opcontrol(void);
 */
 
+#endif

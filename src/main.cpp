@@ -7,7 +7,7 @@ using namespace vex;
 
 vex::competition Competition;
 
-int choice  = 2;
+int choice  = 4;
 
 void pre_auton( void ) {
   Robot Lion(true);
